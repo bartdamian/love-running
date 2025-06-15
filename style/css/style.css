@@ -8,22 +8,25 @@
 /* General Body Styles */
 body {
     min-height: 100vh;
-    display:flex;
+    display: flex;
     flex-direction: column;
     /* Generic Project Styles */
     color: #3a3a3a;
 }
+
 /* Header */
 header {
-    background-color:aquamarine
+    background-color: aquamarine
 }
+
 /* Main Content */
 main {
-    background-color:lightpink
-    /* Make main element take up any surplus space to push footer down */
-    flex: 1 0 auto;
+    background-color: lightpink
+        /* Make main element take up any surplus space to push footer down */
+        flex: 1 0 auto;
 }
+
 /* Footer */
 footer {
-    background-color:lightcoral
+    background-color: lightcoral
 }
