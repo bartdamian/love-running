@@ -1,3 +1,5 @@
+/* Imported goooge fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 /* Asterisk Wildcard selector */
 * {
     padding: 0;
@@ -12,6 +14,7 @@ body {
     flex-direction: column;
     /* Generic Project Styles */
     color: #3a3a3a;
+    font-family: 'Lato', sans-serif;
 }
 
 /* Header */
@@ -25,6 +28,7 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
+
 
 /* Footer */
 footer {
