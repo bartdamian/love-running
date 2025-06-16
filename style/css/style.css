@@ -87,7 +87,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: lightcoral;
+    background-color: rgb(255, 255, 255);
 }
 
 /* Media Queries: tablet and larger (768px and up) */
