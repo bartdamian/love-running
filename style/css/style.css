@@ -97,7 +97,7 @@ main {
 #social-media i {
     font-size:160%;
     padding:5%;
-    color: 3a3a3a;
+    color: #3a3a3a;
 }
 /* Media Queries: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
