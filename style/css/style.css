@@ -29,6 +29,9 @@ h3 {
 .hidden-styles {
     display: none;
 }
+.hidden-heading {
+    display: none;
+}
 
 /* Header */
 header {
